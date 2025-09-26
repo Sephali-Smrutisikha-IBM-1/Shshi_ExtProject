@@ -8,6 +8,7 @@ packages:
   gitUsername: Sephali-Smrutisikha-IBM-1
   gitBranch: main
 - name: WmJDBCAdapter
+  version: 10.3.0.0.34
   wpmServer: https://packages.webmethods.io
   wpmRegistry: licensed
 services:
@@ -45,7 +46,7 @@ configurationVariables:
   ? artConnection.Shshi_ExtProject.project.shshi_ext.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionSettings.dbType
   : ORACLE
   ? artConnection.Shshi_ExtProject.project.shshi_ext.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionManagerSettings.poolable
-  : "false"
+  : "true"
   ? artConnection.Shshi_ExtProject.project.shshi_ext.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionSettings.otherProperties
   : loginTimeout=60;
   ? artConnection.Shshi_ExtProject.project.shshi_ext.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionSettings.databaseName
