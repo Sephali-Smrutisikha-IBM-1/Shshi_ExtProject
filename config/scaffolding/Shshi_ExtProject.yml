@@ -26,7 +26,7 @@ configurationVariables:
   ? artConnection.Shshi_ExtProject.project.shshi_ext.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionManagerSettings.blockingTimeout
   : "1000"
   ? artConnection.Shshi_ExtProject.project.shshi_ext.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionSettings.serverName
-  : ff
+  : ffbb
   ? artConnection.Shshi_ExtProject.project.shshi_ext.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionSettings.networkProtocol
   : ""
   ? artConnection.Shshi_ExtProject.project.shshi_ext.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionManagerSettings.heartBeatInterval
