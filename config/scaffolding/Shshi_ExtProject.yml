@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Shshi_ExtProject
+  gitServerName: Adapters
+  gitUrl: https://github.com/Sephali-Smrutisikha-IBM-1
+  gitUsername: Sephali-Smrutisikha-IBM-1
+  gitBranch: main
